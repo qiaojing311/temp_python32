@@ -6,3 +6,5 @@ def index():
 
 def hello():
 	return 'hello 2018'
+
+c = 3
