@@ -7,5 +7,9 @@ def index():
 def hello():
 	return 'hello 2018'
 
+<<<<<<< HEAD
 def detail():
 	return 'detail info'
+=======
+c = 3
+>>>>>>> 776614ee70a13eb649343165c97b6b2d6fd0d2a6
