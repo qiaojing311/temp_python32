@@ -6,3 +6,6 @@ def index():
 
 def hello():
 	return 'hello 2018'
+
+def detail():
+	return 'detail info'
